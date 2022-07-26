@@ -11,6 +11,6 @@ The two steps to run this project:
 
 2. Run code SingleSliceCounting_newidlist.py to get the Cell number in each nucleus. 
 
-   You need to prepare a file including the coordinates of labeled neurons. In the project, we provide an example named "pnt_correct_rotated_5-3.csv". 
+   You need to prepare a file including the coordinates of labeled neurons. In the project, we provide an example named "RotatedPNT.csv". 
    
    The results are saved under folder "SSc".
