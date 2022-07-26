@@ -1,7 +1,7 @@
 # neuronCounting
 We release the code for our paper "Distinct neural networks derived from galamin-containing nociceptors and neurotensin-expressing pruriceptors" accepted by PNAS 
 
-Using following step to run this project:
+The two steps to run this project:
 
 1. Download 'annotation_25.nrrd' and 'structurelite.txt' from https://help.brain-map.org/display/mousebrain/API
    
